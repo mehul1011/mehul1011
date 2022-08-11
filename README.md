@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mehul1011
-- 👀 I’m interested in Web Development and CyberSecurity
-- 🌱 I’m currently learning ReactJs
-- 💞️ I’m looking to collaborate on CyberSecurity and Web Development projects
+- 👀 I’m interested in Software Development roles
+- 🌱 I’m currently working as a fullstack developer, and open to new opportunities.
+- 💞️ I’m looking to collaborate on Web Development projects
 - 📫 How to reach me linkedin.com/in/mehul1011
 
 <!---
