@@ -8,8 +8,8 @@
 
 <p style="text-align:right">
   
-![](https://github.com/NikhilCodes/GitStats/blob/master/generated/overview.svg)
-![](https://github.com/NikhilCodes/GitStats/blob/master/generated/languages.svg)
+![](https://github.com/mehul1011/GitStats/blob/master/generated/overview.svg)
+![](https://github.com/mehul1011/GitStats/blob/master/generated/languages.svg)
 </p>
 
 ## Tech I work with
